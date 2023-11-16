@@ -1,0 +1,4 @@
+/home/spring/yolo-tensorrtx/yolov5-5.0_new/tensorrtx-yolov5-v5.0/yolov5/build1/CMakeFiles/rebuild_cache.dir
+/home/spring/yolo-tensorrtx/yolov5-5.0_new/tensorrtx-yolov5-v5.0/yolov5/build1/CMakeFiles/edit_cache.dir
+/home/spring/yolo-tensorrtx/yolov5-5.0_new/tensorrtx-yolov5-v5.0/yolov5/build1/CMakeFiles/myplugins.dir
+/home/spring/yolo-tensorrtx/yolov5-5.0_new/tensorrtx-yolov5-v5.0/yolov5/build1/CMakeFiles/yolov5.dir
